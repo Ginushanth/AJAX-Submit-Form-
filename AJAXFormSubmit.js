@@ -68,7 +68,6 @@
                         $('#companyInput').val("");
                         $('#commentsInput').val("");
                         $('#emailInput').val("");
-                        document.getElementById("characters_remaining").innerHTML=1000;
                     }
                 }
             }); // AJAX Get Jquery statment
